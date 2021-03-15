@@ -18,6 +18,23 @@
 * 단위테스트, 통합테스트   
 * 그래들, 디버깅, 인텔리제이 사용법, 다양한 설정들,    
 * 깃과 깃허브    
+### 자바 공부계획
+* 우테코 로드맵 참고해서 진행
+## 우테코 로드맵
+1. [야구게임](https://github.com/woowacourse/java-baseball-precourse)    
+메서드 분리 
+2. [자동차 경주](https://github.com/woowacourse/java-racingcar-precourse)     
+클래스 분리
+3. [로또](https://github.com/woowacourse/java-lotto)
+4. [블랙잭](https://github.com/woowacourse/java-blackjack/tree/master)    
+5. [지하철 노선도](https://github.com/doorisopen/java-subway-map-precourse)   
+객체지향의 특징은 역할, 책임, 협력을 통해 구현
+***
+### 지켜야 할 규칙
+[클린코드 체크리스트](https://github.com/woowacourse/woowacourse-docs/blob/master/cleancode/pr_checklist.md)    
+[자바 코드 컨벤션](https://myeonguni.tistory.com/1596)    
+repository readme를 작성하고 작은 기능 단위로 commit 할 것.   
+[좋은 커밋 메세지 작성법](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
 ## 21.03.13 
 #### 할게 너무 많다. 덕분에 아직 성장 할 수 있는 여지가 충분하다. 무한하다. 
 1. 일단 자바를 더 잘 이해하고, 사용하기 위해 노력하자.   
