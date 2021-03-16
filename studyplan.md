@@ -25,10 +25,8 @@
 메서드 분리 
 2. [자동차 경주](https://github.com/woowacourse/java-racingcar-precourse)     
 클래스 분리
-3. [로또](https://github.com/woowacourse/java-lotto)
-4. [블랙잭](https://github.com/woowacourse/java-blackjack/tree/master)    
-5. [지하철 노선도](https://github.com/doorisopen/java-subway-map-precourse)   
-객체지향의 특징은 역할, 책임, 협력을 통해 구현
+
+* 이 두개만 확실히 하자. 이 두개만으로도 객체지향의 개념, 좋은코드를 배울 수 있다.
 ***
 ### 지켜야 할 규칙
 [클린코드 체크리스트](https://github.com/woowacourse/woowacourse-docs/blob/master/cleancode/pr_checklist.md)    
