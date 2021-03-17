@@ -54,7 +54,8 @@
 * [tdd 박재성 ppt](https://www.slideshare.net/OKJSP/okkycon-tdd?fbclid=IwAR3CWayos7M9WT7Oym4HlzD9Uod1_QR0uXag-ptlfwbxD1p3hhQhDkIoqPY)   
 * [좋은 포트폴리오, 기본](https://okky.kr/article/663519)     
 * [박재성 자바지기 인터뷰](https://ppss.kr/archives/201479)     
-* [좋은 글 쓰는 법](https://www.slideshare.net/zzsza/intro-102870757)   
+* [좋은 글 쓰는 법](https://www.slideshare.net/zzsza/intro-102870757)      
+* [오픈소스로 공부하는 법](https://okky.kr/article/408595)
 ### 자바, springboot, jpa
 * [jpa 양방향 매핑으로 인한 성능 이점](https://webcoding-start.tistory.com/44?category=812494)   
 * [클린코드 체크리스트](https://github.com/woowacourse/woowacourse-docs/blob/master/cleancode/pr_checklist.md)   
