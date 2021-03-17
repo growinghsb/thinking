@@ -17,7 +17,8 @@
 * [daddy programmer](https://daddyprogrammer.org/)        
 * [whiteship 블로그](https://www.whiteship.me/)        
 * [우아한테크코스 블로그](https://woowacourse.github.io/javable/)      
-* [나무소리 유튜브 (java spring 관련)](https://www.youtube.com/c/namoosori/videos)   
+* [나무소리 유튜브 (java spring 관련)](https://www.youtube.com/c/namoosori/videos)      
+* [Next-Step 깃허브](https://github.com/next-step)    
 ### 공식사이트
 * [vue 공식 사이트](https://kr.vuejs.org/)        
 * [quasar 공식 사이트](https://quasar.dev/)    
