@@ -73,4 +73,5 @@
 * [쿼리 공부](http://java-school.net/jdbc/SQL-SELECT-Statement)    
 * [HackerRank query](https://www.hackerrank.com/domains/sql)     
 * [우아한 테크코스 팀프로젝트](https://github.com/woowacourse-teams)
-* [신입 면접 공부 리스트](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+* [신입 면접 공부 리스트](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)     
+* [TDD 과정 리뷰 및 회고](https://catsbi.oopy.io/866d25c3-5177-45a2-a7a3-a43097c41594)    
