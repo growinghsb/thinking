@@ -68,6 +68,8 @@
 * [enum 활용 jojoldu](https://jojoldu.tistory.com/122?category=635881)        
 * [자바 static 메서드](https://woowacourse.github.io/javable/post/2020-07-16-static-method/)         
 * [자바에서 enum이란? 넥스트리 글](https://www.youtube.com/c/namoosori/videos)      
+* [Ioc와 DI 개념 정리](https://biggwang.github.io/2019/08/31/Spring/IoC,%20DI%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C/)            
+* [DI 예제](https://www.journaldev.com/2394/java-dependency-injection-design-pattern-example-tutorial#java-dependency-injection-8211-service-components)      
 ### 그외 프로그래밍 관련 지식
 * [git 공부](https://backlog.com/git-tutorial/kr/)   
 * [인텔리 디버깅 하는 법](https://jojoldu.tistory.com/149)    
