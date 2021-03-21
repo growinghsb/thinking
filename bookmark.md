@@ -41,7 +41,8 @@
 * <https://zuminternet.github.io/ZUM-Pilot-cms/>    
 * <https://zuminternet.github.io/ZUM-Pilot-qkrtjdehd/>     
 * <https://zuminternet.github.io/ZUM-PILOT-WONOH/>    
-* <https://zuminternet.github.io/ZUM-Pilot-integer/>
+* <https://zuminternet.github.io/ZUM-Pilot-integer/>     
+* [이동욱님 줌 파일럿 프로젝트](https://jojoldu.tistory.com/284?category=689637)    
 ### 공부하는 법
 * [어떻게 공부해야 하는가](https://github.com/Gyubin/TIL/blob/master/ETC/how_to_study_programming.md)   
 * [갖춰야 할 기본](https://okky.kr/article/372485)   
