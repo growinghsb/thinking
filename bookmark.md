@@ -35,7 +35,7 @@
 * [마음가짐](https://jojoldu.tistory.com/360?category=689637)       
 * [취업을 할 때](https://jojoldu.tistory.com/398?category=689637)          
 * [사자가 이끄는 늑대무리에서 늑대가 되라](https://jojoldu.tistory.com/419?category=689637)     
-* 나는 최소한 늑대가 되기 위해 노력했는가?       
+  나는 최소한 늑대가 되기 위해 노력했는가?       
 * [자바지기, 후배 개발자에게](https://brunch.co.kr/@javajigi/4)      
 * [사소한 것이라도 이동욱님 글](https://jojoldu.tistory.com/485?category=689637)
 ### 배민 개발자 분들 파일럿 프로젝트
