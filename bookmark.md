@@ -20,7 +20,8 @@
 * [우아한테크코스 블로그](https://woowacourse.github.io/javable/)      
 * [나무소리 유튜브 (java spring 관련)](https://www.youtube.com/c/namoosori/videos)      
 * [Next-Step 깃허브](https://github.com/next-step)       
-* [우아한 테크코스 후기 블로그](https://os94.tistory.com/category/%EC%9A%B0%EC%95%84%ED%95%9C%20%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4?page=3)     
+* [우아한 테크코스 후기 블로그](https://os94.tistory.com/category/%EC%9A%B0%EC%95%84%ED%95%9C%20%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4?page=3)          
+* [박재성님 브런치](https://brunch.co.kr/@javajigi#articles)
 ### 공식사이트
 * [vue 공식 사이트](https://kr.vuejs.org/)        
 * [quasar 공식 사이트](https://quasar.dev/)    
@@ -30,7 +31,13 @@
 ### 도움되는 선배 개발자 분들의 말
 * [이동욱님 블로그 취준생 okky 세미나](https://jojoldu.tistory.com/159?category=717426)      
 * [Tech HR 컨퍼런스 개발자 커리어에 대해](https://jojoldu.tistory.com/163?category=717426)     
-* [okkyCON 소프트웨어 개발이란?](https://jojoldu.tistory.com/249?category=717426) 
+* [okkyCON 소프트웨어 개발이란?](https://jojoldu.tistory.com/249?category=717426)       
+* [마음가짐](https://jojoldu.tistory.com/360?category=689637)       
+* [취업을 할 때](https://jojoldu.tistory.com/398?category=689637)          
+* [사자가 이끄는 늑대무리에서 늑대가 되라](https://jojoldu.tistory.com/419?category=689637)     
+* 나는 최소한 늑대가 되기 위해 노력했는가?       
+* [자바지기, 후배 개발자에게](https://brunch.co.kr/@javajigi/4)      
+* [사소한 것이라도 이동욱님 글](https://jojoldu.tistory.com/485?category=689637)
 ### 배민 개발자 분들 파일럿 프로젝트
 * <https://woowabros.github.io/experience/2018/11/29/pilot-project.html>   
 * <https://woowabros.github.io/experience/2019/09/10/pilot-project.html>   
