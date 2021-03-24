@@ -87,4 +87,5 @@
 * [HackerRank query](https://www.hackerrank.com/domains/sql)     
 * [우아한 테크코스 팀프로젝트](https://github.com/woowacourse-teams)
 * [신입 면접 공부 리스트](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)     
-* [TDD 과정 리뷰 및 회고](https://catsbi.oopy.io/866d25c3-5177-45a2-a7a3-a43097c41594)    
+* [TDD 과정 리뷰 및 회고](https://catsbi.oopy.io/866d25c3-5177-45a2-a7a3-a43097c41594)       
+* [http 자료 정리](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)      
