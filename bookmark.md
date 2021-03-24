@@ -21,7 +21,8 @@
 * [나무소리 유튜브 (java spring 관련)](https://www.youtube.com/c/namoosori/videos)      
 * [Next-Step 깃허브](https://github.com/next-step)       
 * [우아한 테크코스 후기 블로그](https://os94.tistory.com/category/%EC%9A%B0%EC%95%84%ED%95%9C%20%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4?page=3)          
-* [박재성님 브런치](https://brunch.co.kr/@javajigi#articles)
+* [박재성님 브런치](https://brunch.co.kr/@javajigi#articles)       
+* [jojuldo 예제 git](https://github.com/jojoldu/blog-code)
 ### 공식사이트
 * [vue 공식 사이트](https://kr.vuejs.org/)        
 * [quasar 공식 사이트](https://quasar.dev/)    
@@ -88,4 +89,5 @@
 * [우아한 테크코스 팀프로젝트](https://github.com/woowacourse-teams)
 * [신입 면접 공부 리스트](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)     
 * [TDD 과정 리뷰 및 회고](https://catsbi.oopy.io/866d25c3-5177-45a2-a7a3-a43097c41594)       
-* [http 자료 정리](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)      
+* [http 자료 정리](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)         
+* [깃 공부 자료, 정리 잘 되있음](https://hwasurr.io/git-github/git-manage/)
