@@ -38,7 +38,8 @@
 * [사자가 이끄는 늑대무리에서 늑대가 되라](https://jojoldu.tistory.com/419?category=689637)     
   나는 최소한 늑대가 되기 위해 노력했는가?       
 * [자바지기, 후배 개발자에게](https://brunch.co.kr/@javajigi/4)      
-* [사소한 것이라도 이동욱님 글](https://jojoldu.tistory.com/485?category=689637)
+* [사소한 것이라도 이동욱님 글](https://jojoldu.tistory.com/485?category=689637)      
+* [우아한 형제들 인재상](https://zereight.tistory.com/416)
 ### 배민 개발자 분들 파일럿 프로젝트
 * <https://woowabros.github.io/experience/2018/11/29/pilot-project.html>   
 * <https://woowabros.github.io/experience/2019/09/10/pilot-project.html>   
