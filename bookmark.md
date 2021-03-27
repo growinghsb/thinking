@@ -2,7 +2,8 @@
 * [고퀄리티 개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)   
 * [개발자 회고 모음](https://github.com/oaksong/developers-retrospective)   
 * [jojuldo  신입 취업 모음 git](https://github.com/jojoldu/junior-recruit-scheduler)      
-* [이동욱님 2016년 회고/하면된다.](https://brunch.co.kr/@jojoldu/2)
+* [이동욱님 2016년 회고/하면된다.](https://brunch.co.kr/@jojoldu/2)          
+* [f-lab 프로젝트 github](https://github.com/f-lab-edu)      
 ### 프로그래밍 팁
 * [마크다운 문법](https://velog.io/@yuuuye/velog-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4MarkDown-%EC%9E%91%EC%84%B1%EB%B2%95)      
 * [깃 설치](https://coding-factory.tistory.com/245)       
