@@ -14,7 +14,8 @@
 * [Next-Step 깃허브](https://github.com/next-step)       
 * [우아한 테크코스 후기 블로그](https://os94.tistory.com/category/%EC%9A%B0%EC%95%84%ED%95%9C%20%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4?page=3)          
 * [박재성님 브런치](https://brunch.co.kr/@javajigi#articles)       
-* [jojuldo 예제 git](https://github.com/jojoldu/blog-code)
+* [jojuldo 예제 git](https://github.com/jojoldu/blog-code)      
+* [릴랏 블로그](https://kr.rellat.com/)
 ### 공식사이트
 * [vue 공식 사이트](https://kr.vuejs.org/)        
 * [quasar 공식 사이트](https://quasar.dev/)    
@@ -76,7 +77,8 @@
 * [자바 static 메서드](https://woowacourse.github.io/javable/post/2020-07-16-static-method/)         
 * [자바에서 enum이란? 넥스트리 글](https://www.youtube.com/c/namoosori/videos)      
 * [Ioc와 DI 개념 정리](https://biggwang.github.io/2019/08/31/Spring/IoC,%20DI%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C/)            
-* [DI 예제](https://www.journaldev.com/2394/java-dependency-injection-design-pattern-example-tutorial#java-dependency-injection-8211-service-components)      
+* [DI 예제](https://www.journaldev.com/2394/java-dependency-injection-design-pattern-example-tutorial#java-dependency-injection-8211-service-components)         
+* [자바 블랙잭 jojoldu](https://github.com/jojoldu/oop-java)
 ### 그외 프로그래밍 관련 지식
 * [git 공부](https://backlog.com/git-tutorial/kr/)   
 * [인텔리 디버깅 하는 법](https://jojoldu.tistory.com/149)    
