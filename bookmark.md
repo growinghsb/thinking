@@ -4,7 +4,8 @@
 * [jojuldo  신입 취업 모음 git](https://github.com/jojoldu/junior-recruit-scheduler)      
 * [이동욱님 2016년 회고/하면된다.](https://brunch.co.kr/@jojoldu/2)          
 * [f-lab 프로젝트 github](https://github.com/f-lab-edu)                   
-* [카카오 취업기](https://okky.kr/article/682427)    
+* [카카오 취업기](https://okky.kr/article/682427)        
+* [프로젝트 잘 정리한 블로그](https://yeon-kr.tistory.com/131)    
 ### 개발자 블로그
 * [기억보단 기록을 블로그](https://jojoldu.tistory.com/)    
 * [daddy programmer](https://daddyprogrammer.org/)        
